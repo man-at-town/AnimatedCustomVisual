@@ -22,6 +22,7 @@ This custom visual for Power BI creates dynamic, animated cards designed to disp
      - `KPI Main` to the current value field.
      - `SubKPI-1` for the Sub KPI under the Main KPI.
      - `SubKPI-2` for the second Sub KPI under the Main KPI.
+
        ![image](https://github.com/user-attachments/assets/8f52702f-03b3-41b8-bdb5-8773cb15b11c)
 
 
