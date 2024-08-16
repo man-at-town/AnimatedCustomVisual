@@ -4,6 +4,9 @@ This custom visual for Power BI creates dynamic, animated cards designed to disp
 
 ## **Features**
 
+![image](https://github.com/user-attachments/assets/30f817ba-128d-48c5-a3ef-b62ca534e8be)
+
+
 - **Dynamic Card Creation**: Automatically generates KPI cards based on the provided data, displaying key metrics including current values, previous year comparisons, and budget values.
 - **Interactive Animations**: Cards feature smooth hover animations, revealing additional information like previous year and budget values when hovered over.
 - **Customizable Styling**: The visual’s appearance can be easily customized via the centralized `StyleManager.ts`, allowing you to match your report's theme.
