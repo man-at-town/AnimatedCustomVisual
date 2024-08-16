@@ -19,9 +19,9 @@ This custom visual for Power BI creates dynamic, animated cards designed to disp
 
 2. **Drag and Drop Fields**:
    - Drag and drop the fields into the appropriate data wells. Typically, you would assign:
-     - `smeasureName` to the current value field.
-     - `pyMeasureName` for the previous year's value.
-     - `tmeasureName` for the budget value.
+     - `KPI Main` to the current value field.
+     - `SubKPI-1` for the Sub KPI under the Main KPI.
+     - `SubKPI-2` for the second Sub KPI under the Main KPI.
 
 3. **Customize the Appearance**:
    - Customize the visual’s appearance using the formatting pane in Power BI. You can modify colors, fonts, and other visual properties to align with your report’s theme.
