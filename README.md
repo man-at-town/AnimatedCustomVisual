@@ -43,7 +43,7 @@ Feel free to contact me to contribute to the project!
    - The Dynamic KPI Card Visual for Power BI is the exclusive property of MabCap Inc. All intellectual property rights, including copyrights, trademarks, and patents, are retained by MabCap Inc.
 
 2. **License Grant**:
-   - MabCap Inc. grants you a non-exclusive, non-transferable license to use this software for personal or internal business purposes only.
+   - Mab.Labs grants you a non-exclusive, non-transferable license to use this software for personal or internal business purposes only.
    - Redistribution, sublicensing, or any other form of distribution to third parties is strictly prohibited without prior written consent from MabCap Inc.
 
 3. **Restrictions**:
@@ -68,5 +68,5 @@ Feel free to contact me to contribute to the project!
 For inquiries or further information, please contact:
 
 **MabCap Inc.**  
-© 2024 MabCap Inc. All rights reserved.
+© 2024 Mab.Labs subsidiary of MabCap Inc. All rights reserved.
 
